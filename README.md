@@ -29,11 +29,13 @@ It helps to understand environmental conditions, infrastructure readiness, safet
 - How does green cover impact citizen satisfaction?
 - How have AQI and citizen satisfaction changed over time?
 
-## Business Impact & Insights
-- Central Mumbai emerges as one of the safest zones with lower average crime rates.
-- Western and Eastern Suburbs show strong connectivity, driven by higher internet speed and smart facility adoption.
-- Zones with higher green cover tend to report better citizen satisfaction, highlighting the importance of sustainable urban planning.
-- AQI trends and energy consumption patterns help identify zones requiring environmental and infrastructure improvements.
+## Insights
+- High AQI levels (peak at 349) highlight the need for targeted air pollution control in critical zones.
+- Even water consumption across zones supports balanced and sustainable resource planning.
+- Higher energy usage in Eastern Suburbs and Navi Mumbai indicates opportunities for energy efficiency improvements.
+- Strong connectivity performance (score: 100.97) reflects effective digital and smart infrastructure deployment.
+- Central Mumbai’s low crime rate identifies it as the safest zone, supporting focused safety strategies elsewhere.
+- Higher green cover is linked to better citizen satisfaction, reinforcing the importance of sustainable urban planning.
 
 ## Dashboard
 <img width="1324" height="738" alt="Environmental Metrics page1" src="https://github.com/user-attachments/assets/37fb7af1-dcab-4581-b77a-7278c9d44225" />
